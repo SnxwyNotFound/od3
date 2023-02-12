@@ -1,0 +1,19 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+a { 
+  font-size: 20px !important; 
+  width: 400px; 
+  border-radius: 30px !important; 
+  background-color: rgb(125, 212, 147);
+  color: black; 
+  border-color: black;
+}
+
+h1{
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+}
